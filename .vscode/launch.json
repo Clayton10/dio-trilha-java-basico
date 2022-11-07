@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Usuario",
+      "request": "launch",
+      "mainClass": "Usuario",
+      "projectName": "dio-trilha-java-basico_a5b76442"
+    },
+    {
+      "type": "java",
+      "name": "Launch SmartTv",
+      "request": "launch",
+      "mainClass": "SmartTv",
+      "projectName": "dio-trilha-java-basico_a5b76442"
+    },
+    {
+      "type": "java",
       "name": "Launch Current File",
       "request": "launch",
       "mainClass": "${file}"
