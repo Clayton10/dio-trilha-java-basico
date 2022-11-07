@@ -9,7 +9,7 @@ public class TiposVariaveis {
         numero                  = 10;
         System.out.println(numero);
         final double VALOR_DE_PI      = 3.14;
-        VALOR_DE_PI             = 10.75;
+        //VALOR_DE_PI             = 10.75;
 
 
     }
