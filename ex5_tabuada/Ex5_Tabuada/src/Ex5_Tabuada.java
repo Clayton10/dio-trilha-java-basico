@@ -12,6 +12,5 @@ public class Ex5_Tabuada{
       System.out.println(tabuada + " x " + i + " = "+ (tabuada*i));
     }
 
-    
   }
 }
